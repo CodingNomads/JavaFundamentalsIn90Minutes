@@ -19,8 +19,6 @@ Import this project into IntelliJ and right click and "Run" on any file that con
 This project is licensed under the MIT License - https://opensource.org/licenses/MIT
 
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
 * geeksforgeeks.com (always a great resource!)
 * Oracle Java docs
 
