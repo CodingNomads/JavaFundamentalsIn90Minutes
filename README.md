@@ -4,9 +4,9 @@ This is the source code that accompanies our 4 part webinar series, "Java Fundam
 If you would like a link to view the recorded sessions please visit https://codingnomads.co/webinars-learn-java-learn-python/
 
 ## Core Concepts Covered in this Video Series
-====================================================================
-Core Concepts In Part 1 of This Series: https://youtu.be/xzoB7ZkfyXw
-====================================================================
+
+# Part 1: https://youtu.be/xzoB7ZkfyXw
+
 1: Running a Java Application From The Command Line
 2: Running Java Applications Using IntelliJ
 3: Datatypes and Variables in Java
@@ -14,9 +14,8 @@ Core Concepts In Part 1 of This Series: https://youtu.be/xzoB7ZkfyXw
 5: Loops (for, while, do-while, for-each)
 6: Datastructures - Arrays & ArrayLists
 
-====================================================================
-Core Concepts In Part 2 of This Series: https://youtu.be/pFDC1dRzlZU 
-====================================================================
+# Part 2: https://youtu.be/pFDC1dRzlZU 
+
 7. Java Classes
 8. Java Objects
 9. Java Methods
@@ -26,9 +25,8 @@ Core Concepts In Part 2 of This Series: https://youtu.be/pFDC1dRzlZU
 --- c. Polymorphism
 11. Static vs Non-Static (Variables & Methods) 
 
-====================================================================
-Core Concepts In Part 3 of This Series: https://youtu.be/xzoB7ZkfyXw
-====================================================================
+# Part 3: https://youtu.be/xzoB7ZkfyXw
+
 12. Interfaces
 13. Exception Handling
 14. Input / Output (I/O)
