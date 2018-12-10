@@ -3,9 +3,9 @@
 This is the source code that accompanies our 4 part webinar series, "Java Fundamentals from A-Z in 90 Minutes!".
 If you would like a link to view the recorded sessions please visit https://codingnomads.co/webinars-learn-java-learn-python/
 
-## Core Concepts Covered in this Video Series
+# Core Concepts Covered in this Video Series
 
-# Part 1: https://youtu.be/xzoB7ZkfyXw
+## Part 1: https://youtu.be/xzoB7ZkfyXw
 
 1. Running a Java Application From The Command Line
 2. Running Java Applications Using IntelliJ
@@ -14,7 +14,7 @@ If you would like a link to view the recorded sessions please visit https://codi
 5. Loops (for, while, do-while, for-each)
 6. Datastructures - Arrays & ArrayLists
 
-# Part 2: https://youtu.be/pFDC1dRzlZU 
+## Part 2: https://youtu.be/pFDC1dRzlZU 
 
 7. Java Classes
 8. Java Objects
@@ -25,7 +25,7 @@ If you would like a link to view the recorded sessions please visit https://codi
 --- c. Polymorphism
 11. Static vs Non-Static (Variables & Methods) 
 
-# Part 3: https://youtu.be/xzoB7ZkfyXw
+## Part 3: https://youtu.be/xzoB7ZkfyXw
 
 12. Interfaces
 13. Exception Handling
