@@ -7,12 +7,12 @@ If you would like a link to view the recorded sessions please visit https://codi
 
 # Part 1: https://youtu.be/xzoB7ZkfyXw
 
-1: Running a Java Application From The Command Line
-2: Running Java Applications Using IntelliJ
-3: Datatypes and Variables in Java
-4: Conditional Statements
-5: Loops (for, while, do-while, for-each)
-6: Datastructures - Arrays & ArrayLists
+1. Running a Java Application From The Command Line
+2. Running Java Applications Using IntelliJ
+3. Datatypes and Variables in Java
+4. Conditional Statements
+5. Loops (for, while, do-while, for-each)
+6. Datastructures - Arrays & ArrayLists
 
 # Part 2: https://youtu.be/pFDC1dRzlZU 
 
