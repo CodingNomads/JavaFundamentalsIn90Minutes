@@ -7,21 +7,18 @@ import java.util.Scanner;
  */
 public class EntryPoint {
 
+    /**
+     * This main() method is the entry point for the application
+     *
+     * @param args
+     */
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("What game would you like to play?");
-        System.out.println("Enter 1 for BlackJack, 2 for 5 Card Draw, 3 for ....");
+        // create an object of the BlackJackGame class
+        BlackJackGame blackJackGame = new BlackJackGame();
+        // invoked the play() method in BlackJackGame
+        blackJackGame.play();
 
-        int userChoice = scanner.nextInt();
-
-        if (userChoice == 1) {
-            BlackJackGame blackJackGame = new BlackJackGame();
-            blackJackGame.play();
-        } else if (userChoice == 2){
-            // create an object of the 5 card draw poker game
-            // play
-        } // etc
     }
 
 }
