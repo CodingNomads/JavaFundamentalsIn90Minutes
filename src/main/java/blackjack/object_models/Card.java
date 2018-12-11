@@ -1,6 +1,8 @@
 package main.java.blackjack.object_models;
 
 /**
+ * Simple POJO (plain old Java object) that represents a Card object
+ *
  * Created by ryandesmond - https://codingnomads.co
  */
 public class Card {

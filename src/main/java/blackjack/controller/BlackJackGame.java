@@ -9,6 +9,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
+ * This class is the controller class for the BlackJackGame
+ *
  * Created by ryandesmond - https://codingnomads.co
  */
 public class BlackJackGame extends Game implements CardGame {
